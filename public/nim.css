@@ -25,6 +25,7 @@ body {
     color: var(--dark-color);
     line-height: 1.6;
     min-width: 600px;
+    padding-bottom: 0
 }
 
 .app-container {
