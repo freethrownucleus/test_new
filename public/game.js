@@ -5,7 +5,7 @@ let timer;
 let timeLeft;
 let timerEnabled = false;
 let mainGame;
-let url = "https://nim-orest.onrender.com";
+let url = "https://nim-diplomski.onrender.com";
 let divsArray = ["homePageDiv", "gameFormDiv", "gameDiv", "rankingDiv", "rulesDiv"];
 
 // Inicijalizacija DOM elemenata
