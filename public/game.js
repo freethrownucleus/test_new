@@ -5,7 +5,7 @@ let timer;
 let timeLeft;
 let timerEnabled = false;
 let mainGame;
-let url = "http://localhost:8080/";
+let url = "http://igrica-nim.onrender.com/";
 let divsArray = ["homePageDiv", "gameFormDiv", "gameDiv", "rankingDiv", "rulesDiv"];
 
 // Inicijalizacija DOM elemenata
